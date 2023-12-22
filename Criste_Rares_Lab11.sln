@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{60645984-6028-4BF2-8696-CB39FB6A7AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criste_Rares_Lab11", "Criste_Rares_Lab11\Criste_Rares_Lab11.csproj", "{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60645984-6028-4BF2-8696-CB39FB6A7AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60645984-6028-4BF2-8696-CB39FB6A7AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60645984-6028-4BF2-8696-CB39FB6A7AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60645984-6028-4BF2-8696-CB39FB6A7AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8D66C5-64C7-41C0-9B2C-792C2FE77876}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75532435-B95E-4A12-A56B-4E0831B07AF9}
+	EndGlobalSection
+EndGlobal
